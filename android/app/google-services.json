@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "728504717540",
+    "project_id": "fir-cloud-messaging-38bad",
+    "storage_bucket": "fir-cloud-messaging-38bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728504717540:android:01284beb3342e48aff1cf1",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728504717540-cpftgjs2el9jrr3kasvv1pptka33tkvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcm",
+            "certificate_hash": "c9d13aaf2de470d073f02494ebb2485a3b66ffa0"
+          }
+        },
+        {
+          "client_id": "728504717540-eok4kjnodij5nl8ntuv3smfehc7j8o5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUH7FWAVdMBr0kGQxYz7AMyg8dlZ-3qRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728504717540-eok4kjnodij5nl8ntuv3smfehc7j8o5d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728504717540-6fiqnt3fjqna6kpi0e3bhb3p08ttkfk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcmTesting.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728504717540:android:81d5ff7c317af069ff1cf1",
+        "android_client_info": {
+          "package_name": "com.example.fcm_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728504717540-k05ml4a24imekg33s1l96vtmoteb4mak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcm_testing",
+            "certificate_hash": "c9d13aaf2de470d073f02494ebb2485a3b66ffa0"
+          }
+        },
+        {
+          "client_id": "728504717540-eok4kjnodij5nl8ntuv3smfehc7j8o5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUH7FWAVdMBr0kGQxYz7AMyg8dlZ-3qRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728504717540-eok4kjnodij5nl8ntuv3smfehc7j8o5d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728504717540-6fiqnt3fjqna6kpi0e3bhb3p08ttkfk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fcmTesting.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
